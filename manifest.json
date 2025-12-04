@@ -1,10 +1,9 @@
 {
     "name": "Logika Bertahan Hidup",
     "short_name": "Logika Hantu",
-    "description": "Aplikasi PWA sederhana untuk menerapkan Logika Proposisional dengan tema seram.",
+    "description": "Aplikasi PWA sederhana untuk menerapkan Logika Proposisional.",
     "start_url": "./index.html",
     "display": "standalone",
-    "orientation": "portrait",
     "background_color": "#212121",
     "theme_color": "#ff4500",
     "icons": [
