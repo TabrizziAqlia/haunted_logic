@@ -1,11 +1,10 @@
-const CACHE_NAME = 'logika-hantu-v3';
+const CACHE_NAME = 'logika-hantu-v4';
 const urlsToCache = [
     './',
     './index.html',
     './style.css',
     './script.js',
     './manifest.json',
-    './haunted_house.png', /* TAMBAHKAN NAMA FILE GAMBAR LATAR BELAKANGMU DI SINI */
     './icon-192.png',
     './icon-512.png'
 ];
